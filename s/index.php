@@ -7,8 +7,8 @@
 		$fp=fopen('../'.$folder.'/'.$_SERVER['QUERY_STRING'],'r');
 		echo htmlspecialchars(fread($fp,filesize('../'.$folder.'/'.$_SERVER['QUERY_STRING'])));}
 		?></code></pre>
-		<link rel="stylesheet" href=" https://xihale.gitee.io/temporary-imformation/atom-one-dark.min.css" />
-		<script defer src=" https://xihale.gitee.io/temporary-imformation/highlight.min.js"></script>
-		<script defer src="https://xihale.gitee.io/temporary-imformation/start.js"></script>
+		<link rel="stylesheet" href=" https://xihale.gitee.io/temporary-information/atom-one-dark.min.css" />
+		<script defer src=" https://xihale.gitee.io/temporary-information/highlight.min.js"></script>
+		<script defer src="https://xihale.gitee.io/temporary-information/start.js"></script>
 	</body>
 </html>
